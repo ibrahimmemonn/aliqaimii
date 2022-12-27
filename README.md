@@ -1,7 +1,5 @@
 <h3>Hi, <img align="center" src="assets/gifs/Hi.gif" width="20px" />&nbsp;</h3>
 
-![](https://komarev.com/ghpvc/?username=aliqaimii)
-
 <p>I'm a Software Engineer, Expert in front-end development (mobile applications📱, web applications 💻), I am also working on back-end RESTful API (node js).</p>
 
 <p>🎉 Also have good experience in MERN stack development.</p>
